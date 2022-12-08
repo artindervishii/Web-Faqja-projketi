@@ -463,7 +463,6 @@
     }
     #input {
       width: 200px;
-      flex-shrink: 2;
     }
     header {
       height: 150px;
